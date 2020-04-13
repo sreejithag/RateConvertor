@@ -1,0 +1,130 @@
+[
+  {
+    "cc": "INR",
+    "name": "Indian rupee"
+  },
+  {
+    "cc": "USD",
+    "name": "US dollar"
+  },
+  {
+    "cc": "JPY",
+    "name": "Japanese yen"
+  },
+  {
+    "cc": "BGN",
+    "name": "Bulgarian lev"
+  },
+  {
+    "cc": "CZK",
+    "name": "Czech koruna"
+  },
+  {
+    "cc": "DKK",
+    "name": "Danish krone"
+  },
+  {
+    "cc": "GBP",
+    "name": "Pound sterling"
+  },
+  {
+    "cc": "HUF",
+    "name": "Hungarian forint"
+  },
+  {
+    "cc": "PLN",
+    "name": "Polish zloty"
+  },
+  {
+    "cc": "RON",
+    "name": "Romanian leu"
+  },
+  {
+    "cc": "SEK",
+    "name": "Swedish krona"
+  },
+  {
+    "cc": "CHF",
+    "name": "Swiss franc"
+  },
+  {
+    "cc": "ISK",
+    "name": "Icelandic krona"
+  },
+  {
+    "cc": "NOK",
+    "name": "Norwegian krone"
+  },
+  {
+    "cc": "HRK",
+    "name": "Croatian kuna"
+  },
+  {
+    "cc": "RUB",
+    "name": "Russian rouble"
+  },
+  {
+    "cc": "TRY",
+    "name": "Turkish lira"
+  },
+  {
+    "cc": "AUD",
+    "name": "Australian dollar"
+  },
+  {
+    "cc": "BRL",
+    "name": "Brazilian real"
+  },
+  {
+    "cc": "CAD",
+    "name": "Canadian dollar"
+  },
+  {
+    "cc": "CNY",
+    "name": "Chinese yuan renminbi"
+  },
+  {
+    "cc": "HKD",
+    "name": "Hong Kong dollar"
+  },
+  {
+    "cc": "IDR",
+    "name": "Indonesian rupiah"
+  },
+  {
+    "cc": "ILS",
+    "name": "Israeli shekel"
+  },
+  {
+    "cc": "KRW",
+    "name": "South Korean won"
+  },
+  {
+    "cc": "MXN",
+    "name": "Mexican peso"
+  },
+  {
+    "cc": "MYR",
+    "name": "Malaysian ringgit"
+  },
+  {
+    "cc": "NZD",
+    "name": "New Zealand dollar"
+  },
+  {
+    "cc": "PHP",
+    "name": "Philippine peso"
+  },
+  {
+    "cc": "SGD",
+    "name": "Singapore dollar"
+  },
+  {
+    "cc": "THB",
+    "name": "Thai baht"
+  },
+  {
+    "cc": "ZAR",
+    "name": "South African rand"
+  }
+]

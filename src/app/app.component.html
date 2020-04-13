@@ -1,0 +1,39 @@
+<div class="container-contact100">
+
+  <div class="wrap-contact100">
+    <form class="contact100-form" #form='ngForm' (submit)='test(form.value)'>
+      <label for="from">Select From Currency</label>
+      <div class="wrap-input100 ">
+        <select class="input100" style="width: 100%;" name="from" ngModel>
+          <option *ngFor="let currency of currencyList" value="{{currency.cc}}">{{currency.name}}</option>
+        </select>
+        <span class="focus-input100"></span>
+      </div>
+      <label for="to">Select To Currency</label>
+      <div class="wrap-input100 ">
+
+        <select class="input100" style="width: 100%;" name="to" ngModel>
+          <option *ngFor="let currency of currencyList" value="{{currency.cc}}">{{currency.name}}</option>
+
+        </select>
+        <span class="focus-input100"></span>
+      </div>
+
+      <div class="wrap-input100 ">
+        <input class="input100" type="text" placeholder="Amount" name="amount" ngModel>
+        <span class="focus-input100"></span>
+      </div>
+      <div class="container-contact100-form-btn">
+        <button class="contact100-form-btn">
+          <span>
+            Convert
+          </span>
+        </button>
+      </div>
+    </form>
+
+    <div [hidden]=submitted > 
+      <p><b>{{resultData}}</b></p>
+    </div>
+  </div>
+</div>
